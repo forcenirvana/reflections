@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	A new directory will be created called "git" ( hidden ). We need to initialize so that git will start treating that a repository and startign tracking changes for any future commits.
+	A new directory will be created called "git" ( hidden ). We need to initialize so that git will start treating that a repository and startign tracking changes for any future commits. Updated.
 	
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
